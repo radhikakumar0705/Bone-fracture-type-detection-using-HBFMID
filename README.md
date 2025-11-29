@@ -1,4 +1,4 @@
-#  Human Bone Fracture Classification using HOG Features & Machine Learning
+#  Human Bone Fracture Classification
 
 This repository contains an end-to-end machine learning workflow for **bone fracture classification** using **X-ray and MRI images** from the *Human Bone Fractures Multi-modal Image Dataset (HBFMID)*.
 The project includes image loading, preprocessing, HOG feature extraction, model training (Logistic Regression, KNN, SVM), evaluation, and visualization.
